@@ -1,0 +1,1 @@
+testMatch: ['**/_tests_/**/*,[jt]s?(x)','**/?(*.)+(spec|test).[tj]s?(x)']
